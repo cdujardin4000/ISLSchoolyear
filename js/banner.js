@@ -41,8 +41,8 @@ $(function(){
 
     console.log(slider);
     TARGETSLIDER.append(slider);
-    $('.slider, .sliderTarget, .slide.slide1').css({'background': `url("./img/front_board-1.jpg")`, 'background-size' : 'cover', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide2').css({'background': 'url("./img/front_isl-1.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/epfc2.png")', 'background-size' : 'cover', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/epfc.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide1').css({'background': `url("./img/synthesizer-2427767_1920.jpg")`, 'background-size' : 'cover', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide2').css({'background': 'url("./img/synthesizer-908298_1920.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/synthesizer-2479008_1920.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/synthesizer-2814623_1920.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
 });
