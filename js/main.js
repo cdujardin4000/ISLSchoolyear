@@ -4,7 +4,7 @@ $(function(){
     const BUTTON = $('#btn_lire');
     const TARGETNOTES = $('#content');
     const TARGETTITLES = $('#courses');
-
+    const TARGETSLIDER = $('.sliderTarget');
     //fonction qui arrondi a n decimales avec prototype de Math
     Math.arrondi = function(nombre, dec){
         let result = Math.trunc(nombre * Math.pow(10, dec) + 0.5);
@@ -338,12 +338,19 @@ $(function(){
         
     }
 
+    
+
     $(BUTTON).on('click', (e) => {
         e.preventDefault();
         SimulateSchoolYear();
         
         $(BUTTON).hide();
     })
+
+
+
+
+
 
 })
 
