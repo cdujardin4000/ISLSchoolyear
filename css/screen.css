@@ -94,26 +94,5 @@ h1{
         left: -400%;
     }
 }
-/*
-/*add image to slider*/
-.container .slider .slide.slide1 {
-    background: url("../img/front_board-1.jpg"),
-                linear-gradient(0deg, rgba(5,6,26,0.589), rgba(5,6,26,0.74));
-    background-size: cover;
-    background-position: center;
-}
 
-.container .slider .slide.slide2 {
-    background: url("../img/front_isl-1.jpg"),
-                linear-gradient(0deg, rgba(5,6,26,0.589), rgba(5,6,26,0.74));
-    background-size: cover;
-    background-position: center;
-}
-
-.container .slider .slide.slide3 {
-    background: url("../img/thumb_london.jpg"),
-                linear-gradient(0deg, rgba(5,6,26,0.589), rgba(5,6,26,0.74));
-    background-size: cover;
-    background-position: center;
-}
 

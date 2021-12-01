@@ -43,6 +43,6 @@ $(function(){
     TARGETSLIDER.append(slider);
     $('.slider, .sliderTarget, .slide.slide1').css({'background': `url("./img/front_board-1.jpg")`, 'background-size' : 'cover', 'background-position': 'center'});
     $('.slider, .sliderTarget, .slide.slide2').css({'background': 'url("./img/front_isl-1.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/thumb_london.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/epfc2.png")', 'background-size' : 'cover', 'background-position': 'center'});
     $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/epfc.jpg")', 'background-size' : 'cover', 'background-position': 'center'});
 });
