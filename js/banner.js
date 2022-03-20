@@ -2,7 +2,7 @@ $(function(){
 
     const TARGETSLIDER = $('.sliderTarget');
     $('.sliderTarget').css({'margin-top': '10rem'});
-    
+
     let slider = document.createElement('div');
     slider.className = "slider";
     $('.slider').css({'position': 'relative','margin-top': '10rem'});
@@ -54,4 +54,5 @@ $(function(){
     $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/quiz3.png")', 'background-size' : '100vw , 50%', 'background-position': '100% 100%'});
     $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/quiz4.jpg")', 'background-size' : '100vw , 50%', 'background-position': '50% 200%'});
     $('.slider, .sliderTarget, .slide.slide5').css({'background': 'url("./img/quiz5.jpg")', 'background-size' : '100vw , 50%', 'background-position': '100% 0%'});
+    FOOTER.css({'background-color': '#ffca2c'})
 });
