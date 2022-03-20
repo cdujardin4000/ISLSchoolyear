@@ -49,9 +49,9 @@ $(function(){
 
     console.log(slider);
     TARGETSLIDER.append(slider);
-    $('.slider, .sliderTarget, .slide.slide1').css({'background': `url("./img/synthesizer-2427767_1920.jpg")`, 'background-size' : '100vw , 50%', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide2').css({'background': 'url("./img/synthesizer-908298_1920.jpg")', 'background-size' : '100vw , 50%', 'background-position': 'center'});
-    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/synthesizer-2479008_1920.jpg")', 'background-size' : '100vw , 50%', 'background-position': '100% 100%'});
-    $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/synthesizer-2814623_1920.jpg")', 'background-size' : '100vw , 50%', 'background-position': '50% 200%'});
-    $('.slider, .sliderTarget, .slide.slide5').css({'background': 'url("./img/moog-1573329_1920.jpg")', 'background-size' : '100vw , 50%', 'background-position': '100% 0%'});
+    $('.slider, .sliderTarget, .slide.slide1').css({'background': `url("./img/quiz1.jpg")`, 'background-size' : '100vw , 50%', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide2').css({'background': 'url("./img/quiz2.jpg")', 'background-size' : '100vw , 50%', 'background-position': 'center'});
+    $('.slider, .sliderTarget, .slide.slide3').css({'background': 'url("./img/quiz3.png")', 'background-size' : '100vw , 50%', 'background-position': '100% 100%'});
+    $('.slider, .sliderTarget, .slide.slide4').css({'background': 'url("./img/quiz4.jpg")', 'background-size' : '100vw , 50%', 'background-position': '50% 200%'});
+    $('.slider, .sliderTarget, .slide.slide5').css({'background': 'url("./img/quiz5.jpg")', 'background-size' : '100vw , 50%', 'background-position': '100% 0%'});
 });
